@@ -1,42 +1,31 @@
 {
+  "gitSyncId": "65bc7d7b7f4dd576a17f17fc_65bc7dc7d9ef05466cb5c920",
   "unpublishedPage": {
-    "name": "Page2",
-    "slug": "page2",
     "layouts": [
       {
-        "viewMode": false,
         "dsl": {
-          "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1224,
-          "snapColumns": 64,
-          "detachFromLayout": true,
-          "widgetId": "0",
-          "topRow": 0,
           "bottomRow": 760,
-          "containerStyle": "none",
-          "snapRows": 115,
-          "parentRowSpace": 1,
-          "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 88,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
           "minHeight": 1170,
           "parentColumnSpace": 1,
-          "dynamicBindingPathList": [],
-          "leftColumn": 0
-        },
-        "layoutOnLoadActions": [],
-        "layoutOnLoadActionErrors": [],
-        "validOnPageLoadActions": true,
-        "id": "Page2",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+          "parentRowSpace": 1,
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "snapRows": 115,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 90,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
       }
     ],
-    "userPermissions": [],
-    "policies": []
-  },
-  "deleted": false,
-  "gitSyncId": "65bc7d7b7f4dd576a17f17fc_65bc7dc7d9ef05466cb5c920"
+    "name": "Page2",
+    "slug": "page2"
+  }
 }
